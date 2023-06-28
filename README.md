@@ -50,6 +50,10 @@ QUEEN HENTAI Multi Device Whatsapp Bot.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dinuwah/QUEEN-HENTAI)
 ---------
 
+## ```HEROKU TUTORIAL```
+[![Watch on YOUTUBE](https://img.shields.io/badge/youtube%20TUTORIAL-red?style=for-the-badge&logo=youtube)](https://youtu.be/udsSWHUyAy4) 
+---------
+
 ## ```STEPS TO DEPLOY ON HEROKU```
 
 - 1. Fork this repo (Don't forget to give a star)
@@ -83,3 +87,11 @@ QUEEN HENTAI Multi Device Whatsapp Bot.
   
 ## DEPLOY IN RENDER    
 [![Deploy on RENDER](https://img.shields.io/badge/render%20Account-green?style=for-the-badge&logo=render)](https://dashboard.render.com/registerundefined)  
+
+
+## Special Thanks To
+- 1. 💭 Xeon ( cheems wa owner )
+- 2. 💭 Guru ( guru wa owner )
+- 3. 💭 Mr nima ( Elisa wa owner )
+- 4. 💭 Abhishek ( Abhishek wa owner )
+---------
